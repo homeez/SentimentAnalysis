@@ -1,6 +1,6 @@
 # NLP Sentiment Analysis on Customer Reviews
 
-![NLP Sentiment Analysis](nlp-sentiment-analysis.png)
+
 
 Welcome to the **NLP Sentiment Analysis on Customer Reviews** Git repository! In this project, I perform sentiment analysis on customer reviews using the popular IMDB dataset. I employ both the Long Short-Term Memory (LSTM) neural network and the XGBoost machine learning algorithm to analyze and predict the sentiment of customer reviews.
 
